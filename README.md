@@ -2,6 +2,8 @@
 
 A Python-based SQL injection (SQLi) vulnerability scanner with an OS shell uploader, designed using `Tkinter` for the GUI. The tool allows you to scan a target URL for SQLi vulnerabilities using payloads from an external file (`sqli.txt`), and if vulnerable, upload a `shell.php` file to the server. It features multithreading, real-time scan progress tracking, and advanced error handling.
 
+# (Windows Version Available)
+
 ## Features
 
 - **Scan for SQLi vulnerabilities** using custom payloads from `sqli.txt`.
