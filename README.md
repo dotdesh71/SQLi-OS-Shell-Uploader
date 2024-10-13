@@ -33,7 +33,7 @@ You can install the required libraries via pip:
     
 ### Usage
 1. Clone the repository
-2. git clone https://github.com/yourusername/SQLi-OS-Shell-Uploader.git
+2. git clone https://github.com/dotdesh71/SQLi-OS-Shell-Uploader.git
 3. cd SQLi-OS-Shell-Uploader
 
 Running the tool
