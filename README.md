@@ -40,7 +40,9 @@ Running the tool
 
 bash
 
-python sqli_uploader.py
+python os-shell.py
+
+or Double Click on os-shell.exe
 
 4. User Interface Guide
 
