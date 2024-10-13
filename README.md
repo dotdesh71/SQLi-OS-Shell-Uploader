@@ -34,13 +34,11 @@ You can install the required libraries via pip:
     pip install requests Pillow
     
 ### Usage
-1. Clone the repository
+Clone the repository
 2. git clone https://github.com/dotdesh71/SQLi-OS-Shell-Uploader.git
 3. cd SQLi-OS-Shell-Uploader
 
 Running the tool
-
-bash
 
 python os-shell.py
 
